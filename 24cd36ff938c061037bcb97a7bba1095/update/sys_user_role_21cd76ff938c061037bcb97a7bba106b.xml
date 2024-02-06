@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_400534_finaltest.user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-06 09:54:03</sys_created_on>
+        <sys_id>21cd76ff938c061037bcb97a7bba106b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_400534_finaltest.user</sys_name>
+        <sys_package display_value="FinalTest" source="x_400534_finaltest">24cd36ff938c061037bcb97a7bba1095</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FinalTest">24cd36ff938c061037bcb97a7bba1095</sys_scope>
+        <sys_update_name>sys_user_role_21cd76ff938c061037bcb97a7bba106b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-06 09:54:03</sys_updated_on>
+    </sys_user_role>
+</record_update>
